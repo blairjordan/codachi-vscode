@@ -1,6 +1,6 @@
 # Codachi
 
-![codachi logo](https://github.com/blairjordan/codachi-vscode/blob/main/media/codachi-logo.png?raw=true)
+![codachi logo](https://github.com/blairjordan/codachi-vscode/raw/main/media/codachi-logo.png?raw=true)
 
 Adds cute monster pets to your workspace to encourage productivity.
 
@@ -22,7 +22,7 @@ These pets thrive off productivity. Write code to gain XP and level up!
 
 ## Screenshots
 
-![Preview](https://github.com/blairjordan/codachi-vscode/blob/main/media/screenshot1.gif?raw=true)
+![Preview](https://github.com/blairjordan/codachi-vscode/raw/main/media/screenshot1.gif)
 
 ## Release Notes
 
